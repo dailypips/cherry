@@ -1,0 +1,6 @@
+[package]
+name = "bounded_spsc_queue"
+version = "0.1.0"
+authors = ["Xiaojun Gao <gaoxiaojun@gmail.com>"]
+
+[dependencies]
